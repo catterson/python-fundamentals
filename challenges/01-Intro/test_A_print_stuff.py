@@ -1,5 +1,6 @@
 # This is just here so this breaks if you don't have pytest (which makes more
 # sense than missing capsys below)
+
 import pytest
 
 def test_printing(capsys):
