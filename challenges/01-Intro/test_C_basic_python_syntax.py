@@ -1,6 +1,4 @@
 
-import pytest
-
 import C_basic_python_syntax as C
 
 def test_indentation():
