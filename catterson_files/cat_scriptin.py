@@ -5,8 +5,9 @@ name = "Catperson"
 
 print full + name
 
-fullName = full + " " + name
+fullName = full + "  " + name
 
 print fullName
 
-fullName
+print fullName.center(20, '!')
+

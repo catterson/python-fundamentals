@@ -4,13 +4,14 @@
 ## You can see that you can create problems when you use a quote character in the
 ## string. There are a couple ways around this, including putting a backslash
 ## before the problematic quote, or using a different quote (")
-print 'This person's name will be defined very well!'
+print "This person's name will be defined very well!"
 
 # Define your name
 ## Define strings called your_first_name and your_last_name (they can be
 ## anything)
 
-
+your_first_name = "daniel"
+your_last_name = "catterson"
 
 print your_first_name, your_last_name, 'was here!'
 
@@ -27,4 +28,4 @@ print your_first_name, your_last_name, 'was here!'
 ## So, if s = 'HelpA', s[3] is 'p'. Don't forget that we start with 0 (no
 ## distance into the string).
 
-print 'The second letter of my last name is' # ???
+print 'The second letter of my last name is', your_last_name[1]
