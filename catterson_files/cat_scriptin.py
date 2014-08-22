@@ -11,4 +11,4 @@ print fullName
 
 print fullName.center(20, '!')
 
-print 'http://drudgereport.com'.split('/')[2]
+import scrapy

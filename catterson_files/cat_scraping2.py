@@ -9,8 +9,8 @@ __author__ = 'adcat'
 #tree = html.fromstring(r.text)
 #print tree.body.text_content()
 
-url_DR = ['http://www.drudgereportarchives.com/data/2014/08/21/20140821_014042.htm',
-          'http://www.drudgereportarchives.com/data/2014/08/21/20140821_014223.htm']
+#url_DR = ['http://www.drudgereportarchives.com/data/2014/08/21/20140821_014042.htm',
+#          'http://www.drudgereportarchives.com/data/2014/08/21/20140821_014223.htm']
 
 import scrapy
 
